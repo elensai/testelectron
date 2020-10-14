@@ -1,9 +1,9 @@
-version: 1.0.3
+version: 1.0.2
 files:
-  - url: electron-project Setup 1.0.3.exe
-    sha512: tC+BNKKXlnj3L7OoV9tZT4XUAQRYGUTGesgGwo6Bki/1TDeebZhrf5NjcqwcfP3mxJbgxw/Flwsucj3RHfmPyA==
-    size: 54150241
+  - url: eleapp Setup 1.0.2.exe
+    sha512: /HtRXYzAOAuMurrDSA547eDYFamGjKNg/nGj5bWur07zHK5tdfD2l6NVm8zagyYYz2hk094VYe84RbC6o4zx4A==
+    size: 54157809
     isAdminRightsRequired: true
-path: electron-project Setup 1.0.3.exe
-sha512: tC+BNKKXlnj3L7OoV9tZT4XUAQRYGUTGesgGwo6Bki/1TDeebZhrf5NjcqwcfP3mxJbgxw/Flwsucj3RHfmPyA==
-releaseDate: '2020-10-14T09:54:38.105Z'
+path: eleapp Setup 1.0.2.exe
+sha512: /HtRXYzAOAuMurrDSA547eDYFamGjKNg/nGj5bWur07zHK5tdfD2l6NVm8zagyYYz2hk094VYe84RbC6o4zx4A==
+releaseDate: '2020-10-14T12:12:26.777Z'

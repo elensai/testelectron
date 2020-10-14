@@ -19,6 +19,7 @@
     "update-electron-app": "^2.0.1"
   },
   "build": {
+    "productName": "eleapp",
     "appId": "org.zero.QuickStart",
     "copyright": "Zero",
     "compression": "normal",
