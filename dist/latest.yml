@@ -1,0 +1,9 @@
+version: 1.0.2
+files:
+  - url: electron-project Setup 1.0.2.exe
+    sha512: kMjSkr8Bt1WS7MYroyDQYjZXeERBQ5EePuS8l2WI7iyv0QTs10Du6hKSLnoYKrwxeDbHs8Sd5yr6yG/0k1I8Yg==
+    size: 54150025
+    isAdminRightsRequired: true
+path: electron-project Setup 1.0.2.exe
+sha512: kMjSkr8Bt1WS7MYroyDQYjZXeERBQ5EePuS8l2WI7iyv0QTs10Du6hKSLnoYKrwxeDbHs8Sd5yr6yG/0k1I8Yg==
+releaseDate: '2020-10-14T03:23:36.329Z'
