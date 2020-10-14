@@ -33,7 +33,7 @@ function createWindow() {
     };
     const os = require('os');
     // https://github.com/elensai/testelectron/blob/master/dist/
-    autoUpdater.setFeedURL('https://github.com/elensai/testelectron/blob/master/dist/');
+    autoUpdater.setFeedURL('http://gitlab.corp.elensdata.com/luxinyue/testelectron/raw/master/dist');
     // autoUpdater.setFeedURL('http://192.168.1.137:8090/update/windows_64/');
     autoUpdater.on('error', function(error){
       sendUpdateMessage(message.error)

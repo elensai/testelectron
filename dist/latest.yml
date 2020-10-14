@@ -1,9 +1,9 @@
 version: 1.0.3
 files:
   - url: electron-project Setup 1.0.3.exe
-    sha512: sOvdpQeufCKTtKQAANArNy9ULRxF5C/pZP6uZCEC1KuYMV7IWaOYvdinMORYcvxH9f64b8Id9mOGtX3SJ6RuWQ==
-    size: 54150191
+    sha512: tC+BNKKXlnj3L7OoV9tZT4XUAQRYGUTGesgGwo6Bki/1TDeebZhrf5NjcqwcfP3mxJbgxw/Flwsucj3RHfmPyA==
+    size: 54150241
     isAdminRightsRequired: true
 path: electron-project Setup 1.0.3.exe
-sha512: sOvdpQeufCKTtKQAANArNy9ULRxF5C/pZP6uZCEC1KuYMV7IWaOYvdinMORYcvxH9f64b8Id9mOGtX3SJ6RuWQ==
-releaseDate: '2020-10-14T09:21:12.524Z'
+sha512: tC+BNKKXlnj3L7OoV9tZT4XUAQRYGUTGesgGwo6Bki/1TDeebZhrf5NjcqwcfP3mxJbgxw/Flwsucj3RHfmPyA==
+releaseDate: '2020-10-14T09:54:38.105Z'
