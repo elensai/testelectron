@@ -1,0 +1,3 @@
+provider: generic
+url: 'http://gitlab.corp.elensdata.com/luxinyue/testelectron/raw/master/dist/latest.yml'
+updaterCacheDirName: electron-project-updater
