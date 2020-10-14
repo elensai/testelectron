@@ -32,7 +32,9 @@ function createWindow() {
       updateNotAva:'现在使用的就是最新版本，不用更新',
     };
     const os = require('os');
-    autoUpdater.setFeedURL('http://192.168.1.137:8090/update/windows_64/');
+    // https://github.com/elensai/testelectron/blob/master/dist/
+    autoUpdater.setFeedURL('https://github.com/elensai/testelectron/blob/master/dist/');
+    // autoUpdater.setFeedURL('http://192.168.1.137:8090/update/windows_64/');
     autoUpdater.on('error', function(error){
       sendUpdateMessage(message.error)
     });
