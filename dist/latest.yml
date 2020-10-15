@@ -1,9 +1,9 @@
-version: 1.0.2
+version: 1.0.1
 files:
-  - url: eleapp Setup 1.0.2.exe
-    sha512: /HtRXYzAOAuMurrDSA547eDYFamGjKNg/nGj5bWur07zHK5tdfD2l6NVm8zagyYYz2hk094VYe84RbC6o4zx4A==
-    size: 54157809
+  - url: eleapp Setup 1.0.1.exe
+    sha512: x6ZE7E4SGfe1EPtb9miOsMHMes+zOJaQRpcgJOb8VVnm5O/7ceg6r15zCwouNeFay/O2B3Qr8E6JEzqEa0iWEw==
+    size: 54157851
     isAdminRightsRequired: true
-path: eleapp Setup 1.0.2.exe
-sha512: /HtRXYzAOAuMurrDSA547eDYFamGjKNg/nGj5bWur07zHK5tdfD2l6NVm8zagyYYz2hk094VYe84RbC6o4zx4A==
-releaseDate: '2020-10-14T12:12:26.777Z'
+path: eleapp Setup 1.0.1.exe
+sha512: x6ZE7E4SGfe1EPtb9miOsMHMes+zOJaQRpcgJOb8VVnm5O/7ceg6r15zCwouNeFay/O2B3Qr8E6JEzqEa0iWEw==
+releaseDate: '2020-10-14T12:34:38.826Z'
